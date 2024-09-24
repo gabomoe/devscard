@@ -11,10 +11,10 @@ const config = {
     },
   },
   meta: {
-    title: 'Mark Freeman - Senior React Developer',
+    title: 'Gabriel Lunar - Desarrollador Web Full-Stack',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales ac dui at vestibulum. In condimentum metus id dui tincidunt, in blandit mi vehicula.',
-    faviconPath: '/src/assets/my-image.jpeg',
+      'Soy Gabriel Lunar, desarrollador web full stack. Me encanta crear sitios web que no solo se vean bien, sino que también funcionen de manera impecable. Siempre busco la mejor forma de llevar las ideas a la realidad digital.',
+    faviconPath: '/src/assets/favicon.png',
   },
   pdf: {
     footer:
